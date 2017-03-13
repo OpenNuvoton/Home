@@ -3,8 +3,11 @@ Open Nuvoton Home Page
 
 **1. mbed**
 - [mbed OS](https://github.com/OpenNuvoton/mbed)
-- [SD File System](https://github.com/OpenNuvoton/NuMaker-mbed-SDFileSystem)
-- [NuBrick](https://github.com/OpenNuvoton/NuMaker-mbed-NuBrick)
+- [mbed SD File System lib](https://github.com/OpenNuvoton/NuMaker-mbed-SDFileSystem)[, example](https://developer.mbed.org/teams/Nuvoton/code/NuMaker-mbed-SDFileSystem-example/)
+- [mbed NuBrick lib](https://github.com/OpenNuvoton/NuMaker-mbed-NuBrick)[, example](https://developer.mbed.org/teams/Nuvoton/code/NuMaker-mbed-NuBrick-example/)
+- [mbed Audio lib](https://github.com/OpenNuvoton/NuMaker-mbed-Audio)[, example](https://developer.mbed.org/teams/Nuvoton/code/NuMaker-mbed-AudioPlayback-example/)
+- [mbed uVisor example](https://github.com/OpenNuvoton/NuMaker-mbed-uVisor-example)
+- [mbed Doc](https://github.com/OpenNuvoton/NuMaker-mbed-docs)
 
 **2. NUC970**
 - [Buildroot](https://github.com/OpenNuvoton/NUC970_Buildroot)
@@ -23,3 +26,13 @@ Open Nuvoton Home Page
 - [Nano112/102 BSP](https://github.com/OpenNuvoton/Nano102_112BSP)
 - [Nano103 BSP](https://github.com/OpenNuvoton/Nano103BSP)
 - [NUC472/442 BSP](https://github.com/OpenNuvoton/NUC472_442BSP)
+
+**4. NuMaker WiFi Cam**
+- [WiFi Cam example](https://github.com/OpenNuvoton/NuMaker_NuWicam_Samples)
+- [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuWicam_RDK)
+- [IOS App](https://github.com/OpenNuvoton/NuMaker_NuWicam_Player_IOS)
+- [Andorid App](https://github.com/OpenNuvoton/NuMaker_NuWicam_Player_Android)
+
+**5. NuMaker Easy Cam**
+- [Easy Cam example](https://github.com/OpenNuvoton/NuMaker_NuEZCam_Samples)
+- [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuEZCam_RDK)
