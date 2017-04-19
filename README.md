@@ -37,3 +37,6 @@ Open Nuvoton Home Page
 **5. NuMaker Easy Cam**
 - [Easy Cam example](https://github.com/OpenNuvoton/NuMaker_NuEZCam_Samples)
 - [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuEZCam_RDK)
+
+**6. 8051 BSP**
+- [N76E00E BSP](https://github.com/OpenNuvoton/N76E003-BSP)
