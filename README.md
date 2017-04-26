@@ -18,7 +18,7 @@ Open Nuvoton Home Page
 - [Non-OS BSP](https://github.com/OpenNuvoton/NUC970_NonOS_BSP)
 - [NuWriter](https://github.com/OpenNuvoton/NUC970_NuWriter)
 
-**3. M0/M4 BSP**
+**3. M0 BSP**
 - [Mini51 BSP](https://github.com/OpenNuvoton/Mini51BSP)
 - [Mini55 BSP](https://github.com/OpenNuvoton/Mini55BSP)
 - [Mini58 BSP](https://github.com/OpenNuvoton/Mini58BSP)
@@ -26,17 +26,19 @@ Open Nuvoton Home Page
 - [Nano100B BSP](https://github.com/OpenNuvoton/Nano100B_BSP)
 - [Nano112/102 BSP](https://github.com/OpenNuvoton/Nano102_112BSP)
 - [Nano103 BSP](https://github.com/OpenNuvoton/Nano103BSP)
+
+**4. M4 BSP**
 - [NUC472/442 BSP](https://github.com/OpenNuvoton/NUC472_442BSP)
 
-**4. NuMaker WiFi Cam**
+**5. NuMaker WiFi Cam**
 - [WiFi Cam example](https://github.com/OpenNuvoton/NuMaker_NuWicam_Samples)
 - [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuWicam_RDK)
 - [IOS App](https://github.com/OpenNuvoton/NuMaker_NuWicam_Player_IOS)
 - [Andorid App](https://github.com/OpenNuvoton/NuMaker_NuWicam_Player_Android)
 
-**5. NuMaker Easy Cam**
+**6. NuMaker Easy Cam**
 - [Easy Cam example](https://github.com/OpenNuvoton/NuMaker_NuEZCam_Samples)
 - [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuEZCam_RDK)
 
-**6. 8051 BSP**
+**7. 8051 BSP**
 - [N76E00E BSP](https://github.com/OpenNuvoton/N76E003-BSP)
