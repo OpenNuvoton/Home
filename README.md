@@ -42,3 +42,8 @@ Open Nuvoton Home Page
 
 **7. 8051 BSP**
 - [N76E00E BSP](https://github.com/OpenNuvoton/N76E003-BSP)
+
+
+**8. N32905**
+- [Linux BSP](https://github.com/OpenNuvoton/N32905_Linux_BSP)
+- [Non-OS BSP](https://github.com/OpenNuvoton/N32905_NonOS_BSP)
