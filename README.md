@@ -42,7 +42,7 @@ Open Nuvoton Home Page
 - [Reference Design Kit](https://github.com/OpenNuvoton/NuMaker_NuEZCam_RDK)
 
 **7. 8051 BSP**
-- [N76E00E BSP](https://github.com/OpenNuvoton/N76E003-BSP)
+- [N76E003 BSP](https://github.com/OpenNuvoton/N76E003-BSP)
 
 
 **8. N32905**
